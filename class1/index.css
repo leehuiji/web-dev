@@ -1,0 +1,28 @@
+body {
+  background-color: #F8F9F9
+}
+.container {
+  margin: 0 auto;
+  text-align: right;
+  width: 200px;
+}
+.nav {
+  background-color: #FADBD8;
+  padding: 10px;
+  text-indent: 300px;
+  font-family: serif;
+  font-style: italic;
+  font-size: 15px;
+}
+
+#title {
+  color: #DB7093;
+  font-family: Helvetica, sans-serif;
+}
+
+#cupcake-img {
+  width: 500px;
+  margin-right: auto;
+  display: block;
+  padding: 50px
+}
